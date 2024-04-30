@@ -1,2 +1,2 @@
 # cleantokencontract
-Standart ERC20 token contract for all networks
+$BabyBATS Polygon MEMEtoken - Standart ERC20 token contract for all networks
